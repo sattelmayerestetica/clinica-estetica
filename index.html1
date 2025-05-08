@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica de Estética</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        header, footer { background-color: #f4f4f4; padding: 20px; text-align: center; }
+        nav a { margin: 0 10px; text-decoration: none; color: #333; }
+        main { padding: 20px; }
+        section { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Clínica de Estética Integrativa [Sattelmayer]</h1>
+        <nav>
+            <a href="#home">Início</a>
+            <a href="#services">Serviços</a>
+            <a href="#about">Sobre Nós</a>
+            <a href="#contact">Contato</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Bem-vindo à Nossa Clínica</h2>
+            <p>Oferecemos tratamentos estéticos de qualidade para cuidar da sua beleza e bem-estar.</p>
+        </section>
+
+        <section id="services">
+            <h2>Nossos Serviços</h2>
+            <p>Conheça nossos tratamentos faciais e corporais para realçar sua beleza.</p>
+        </section>
+
+        <section id="about">
+            <h2>Sobre Nós</h2>
+            <p>A clínica [Sattelmayer] conta com profissionais qualificados e equipamentos modernos.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contato</h2>
+            <p>Endereço: [Rua Infante Dom Pedro, Lote 3, Loja B]</p>
+            <p>Telefone: [+351 938 557 679]</p>
+            <p>Instagram: [@sattelmayer.estetica]</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Clínica de Estética. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
